@@ -1,5 +1,10 @@
 from setuptools import find_packages, setup
 from typing import List
+'''
+En résumé : setup.py est essentiel pour transformer ton projet en package réutilisable et partageable, 
+ce qui est pratique pour les gros projets ou si tu veux distribuer ton code à d’autres personnes.
+
+'''
 
 HYPEN_E_DOT = '-e .'
 
